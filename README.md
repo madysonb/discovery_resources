@@ -29,11 +29,11 @@ See Notch and LoCOR for example uses of the Notch pipeline.
 
 ### Citation
 
-If you used code found in this repository in your research, please cite Barber et al. in prep
+If you find this repository useful in your research, please cite Barber et al. in prep
 
 ### Additional Packages
 
-Some packages exist in their authors’ GitHub repositories. If you find these packages useful in your research, please cite their location. 
+Some packages exist in their author's GitHub repositories. If you find these packages useful in your research, please cite appropriately. 
 
 RVs: https://github.com/indiajoe/HxRGproc, https://github.com/tofflemire/saphires  
 LOFTI binary orbits: https://github.com/logan-pearce/lofti_gaia  
