@@ -25,7 +25,7 @@ Code stored in this repository is presented as jupyter notebooks for simple use.
 
 The notebook transit_plots.ipynb shows the user how to read in the misttborn posteriors and make a phase folded transit and a GP TESS sector.
 
-See Notch and LoCOR for example uses of the Notch pipeline. 
+See Notch_and_LOCoR (https://github.com/arizzuto/Notch_and_LOCoR) for example uses of the Notch pipeline. 
 
 ### Citation
 
@@ -43,4 +43,4 @@ Astrometry: https://github.com/awmann/basic_astrometry, http://www.bo.astro.it/S
 Rotation period: https://github.com/waqasbhatti/astrobase  
 vsini: https://github.com/aurorayk/Vsini  
 cosi: https://github.com/mjfields/cosi  
-Original planet search pipeline: https://github.com/arizzuto/Notch_and_LOCoR  
+Original planet search pipeline, Notch and LOCoR: https://github.com/arizzuto/Notch_and_LOCoR  
