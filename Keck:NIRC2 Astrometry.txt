@@ -1,0 +1,6 @@
+Epoch [MJD], Separation [mas], Separation Uncertainty [mas], Position Angle [deg], Position Angle Uncertainty [deg]
+55156.53, 4012.94, 1.45, 198.148, 0.020
+56880.62, 4009.26, 1.44, 198.158, 0.021
+60283.28, 3998.46, 1.51, 198.148, 0.022
+60283.28, 3997.12, 1.42, 198.148, 0.020
+# a -0.062 deg offset has been applied to position angle to convert from Keck/NIRC2 frame into Gaia DR3 frame
