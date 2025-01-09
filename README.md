@@ -21,7 +21,7 @@ The download process should not take more than a few minutes.
 
 ### Demos / Instructions
 
-Code stored in this repository is presented as jupyter notebooks for simple use. For demo purposes, we reduce the MCMC walkers and steps so the code runs on the order of seconds to minutes. The results of this code are published in Barber et al. in prep. Due to the MCMC, results may vary within reported uncertainties. 
+Code stored in this repository is presented as jupyter notebooks for simple use. For demo purposes, we reduce the MCMC walkers and steps so the code runs on the order of seconds to minutes. The results of this code are published in Barber et al. 2024. Due to the MCMC, results may vary within reported uncertainties. 
 
 The notebook transit_plots.ipynb shows the user how to read in the misttborn posteriors and make a phase folded transit and a GP TESS sector.
 
@@ -29,7 +29,7 @@ See Notch_and_LOCoR (https://github.com/arizzuto/Notch_and_LOCoR) for example us
 
 ### Citation
 
-If you find this repository useful in your research, please cite Barber et al. in prep
+If you find this repository useful in your research, please cite Barber et al. 2024. https://www.nature.com/articles/s41586-024-08123-3
 
 ### Additional Packages
 
